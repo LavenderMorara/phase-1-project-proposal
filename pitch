@@ -1,7 +1,3 @@
-Here's a pitch for your app:
-
----
-
 ### **Beauty & Wellness Connect**
 
 **Elevate Your Beauty and Wellness Experience**
@@ -13,23 +9,19 @@ Welcome to Beauty & Wellness Connect, the ultimate platform designed to bridge t
 
 ---
 
-**Key Features:**
+**Key Features.
 
-1. **Interactive Chatbot:**
-   - Our AI-powered chatbot greets users and identifies whether they are service providers or consumers, guiding them to their specific sections.
-   - The chatbot ensures a smooth onboarding experience, answering queries and providing assistance.
-
-2. **Service Provider Section:**
+1. **Service Provider Section:**
    - Service providers can create detailed profiles showcasing their services, specialties, and prices.
    - Integration with Google Maps allows providers to pin their exact location, making it easier for customers to find them.
    - Providers can manage bookings, update service offerings, and interact with potential clients.
 
-3. **Consumer Section:**
+2. **Consumer Section:**
    - Consumers can browse through a wide range of beauty and wellness services.
    - Filter options to search for specific treatments, read reviews, and view ratings.
    - An intuitive booking system to schedule appointments with preferred service providers.
 
-4. **Google Maps Integration:**
+3. **Google Maps Integration:**
    - Seamless integration with Google Maps helps consumers locate service providers with ease.
    - Detailed directions and estimated travel times ensure convenience.
 
